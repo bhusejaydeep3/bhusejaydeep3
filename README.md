@@ -1,7 +1,20 @@
 # 💫 About Me:
 
-Data Science & Analytics Student | SQL Server | Python | IIT Roorkee DS/ML Program | Open to DS/Analytics roles 2027
+🎯 About Me
 
+Data Science & ML enthusiast currently training at IIT Roorkee + 
+Intellipaat (DS/ML/AI program) alongside a Psychology degree from IGNOU.
+
+I build things to understand them — currently focused on SQL analytics,
+Python, and machine learning fundamentals.
+
+Fast learner. Execution-focused. Compounding skills daily.
+
+🌱 Currently Learning: Machine Learning | Pandas | Data Visualization
+🔭 Working On: Real-world analytics projects for portfolio
+⚡ Background: Psychology × Data Science — pattern recognition 
+   runs in both worlds
+🎯 Goal: Building toward roles where data shapes real decisions
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhusejaydeep3@gmail.com) 
 
