@@ -3,7 +3,7 @@
 🎯 About Me
 
 Data Science & ML enthusiast currently training at IIT Roorkee + 
-Intellipaat (DS/ML/AI program) alongside a Psychology degree from IGNOU.
+Intellipaat (DS/ML/AI program) alongside a Psychology degree 
 
 I build things to understand them — currently focused on SQL analytics,
 Python, and machine learning fundamentals.
