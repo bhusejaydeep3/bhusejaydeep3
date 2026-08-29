@@ -3,7 +3,7 @@
 🎯 About Me
 
 Data Science & ML enthusiast currently training at IIT Roorkee + 
-Intellipaat (DS/ML/AI program) alongside a Psychology degree 
+Intellipaat (DS/ML/AI program)
 
 I build things to understand them — currently focused on SQL analytics,
 Python, and machine learning fundamentals.
@@ -12,7 +12,7 @@ Fast learner. Execution-focused. Compounding skills daily.
 
 🌱 Currently Learning: Machine Learning | Pandas | Data Visualization
 🔭 Working On: Real-world analytics projects for portfolio
-⚡ Background: Psychology × Data Science — pattern recognition 
+⚡ Background:Data Science — pattern recognition 
    runs in both worlds
 🎯 Goal: Building toward roles where data shapes real decisions
 ## 🌐 Socials:
